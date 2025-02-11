@@ -78,12 +78,12 @@ exam_status_pivot = pd.pivot_table(
 )
 
 exam_status_pivot.plot(kind='bar', figsize=(14,7), color=['skyblue', 'salmon'])
-plt.title('Status dos Exames (Filtrado)')
+plt.title('Status dos Exames')
 plt.xlabel('Exames')
 plt.ylabel('Contagem')
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
-plt.savefig('exam_status_filtered.png')
+plt.savefig('exam_status.png')
 plt.close()
 
 # ====================== DEMAIS GRÁFICOS (CÓDIGO ORIGINAL) ======================
