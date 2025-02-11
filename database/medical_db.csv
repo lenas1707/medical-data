@@ -1,0 +1,68 @@
+Numero do Prontuário,Ano de entrada,Natularidade,Sexo,Idade,Especialidade que encaminhou,H.D,Exames,Status ,Diagnostico,Encaminhamento,Ano de Saida
+4112,2022,Santos,F,15,Pediatria,Down,"Array, Cariótipo ","Realizado, Não Realizado ",Down,APAE,2025
+8584,2020,Cubatão,F,4,Pediatria,Down,Cariótipo,Não Realizado,Sem conclusão,Sem conclusão,2023
+2833,2021,São Vicente,M,8,Neurologista,TEA,Array,Realizado,TEA,Alta,2023
+4041,2020,Santos,F,6,Pediatria,Kabuki,Exames prévios,,Kabuki,Alta,2020
+5211,2022,São Sebastião,M,7,Geneticista,Noonan,Exames prévios,,Kabuki,"Oftalmologista, Cardiologista",2025
+2700,2020,Guarujá,F,6/12,Geneticista,Kabuki,Array,Realizado,Kabuki,APAE,2022
+2805,2021,Cubatão,M,8/12,Neurologista,Noonan,Não Realizado,,TEA,Sem Encaminhamento,2022
+1341,2020,Guarujá,F,8/12,Neurologista,Turner,Exames prévios,,Turner,Alta,2025
+4433,2022,Cubatão,M,2,Pediatria,TEA,Exames prévios,,Down,"Oftalmologista, Cardiologista",2024
+1600,2021,Santos,M,5,Geneticista,Noonan,Exoma,Realizado,Noonan,APAE,2023
+1623,2022,Cubatão,F,2,Neurologista,TEA,Exames prévios,,TEA,"Oftalmologista, Cardiologista",2022
+1439,2022,São Vicente,M,10,Neurologista,Noonan,Não Realizado,,Noonan,Sem Encaminhamento,2025
+8720,2022,São Sebastião,M,3,Neurologista,Turner,Não Realizado,,Turner,Sem Encaminhamento,2025
+6337,2021,Guarujá,M,2,Pediatria,Kabuki,Cariótipo,Realizado,Kabuki,Alta,2022
+3253,2022,São Sebastião,M,8,Pediatria,Kabuki,Cariótipo,Não Realizado,Sem conclusão,Sem conclusão,2024
+4531,2022,Cubatão,F,11,Geneticista,Kabuki,Exames prévios,,Sem conclusão,Sem conclusão,2025
+7001,2022,Santos,M,17,Neurologista,Down,Exames prévios,,Sem conclusão,Sem conclusão,2024
+7964,2020,São Vicente,F,1,Neurologista,TEA,Array,Não Realizado,Sem conclusão,Sem conclusão,2020
+4244,2020,Santos,M,7,Geneticista,Turner,Cariótipo,Não Realizado,Sem conclusão,Sem conclusão,2021
+6462,2019,São Sebastião,M,15,Geneticista,Noonan,Cariótipo,Não Realizado,Sem conclusão,Sem conclusão,2022
+3537,2021,São Sebastião,F,12,Geneticista,Down,Diagnostico clinico,Realizado,Down,APAE,2023
+5217,2020,Santos,M,8,Pediatria,Down,Diagnostico clinico,Realizado,Down,APAE,2020
+7303,2020,São Sebastião,F,17,Geneticista,Turner,Array,Não Realizado,Sem conclusão,Sem conclusão,2020
+9947,2021,São Sebastião,M,7,Pediatria,Turner,Array,Não Realizado,Sem conclusão,Sem conclusão,2022
+2307,2018,Cubatão,F,14,Pediatria,TEA,Exames prévios,,TEA,Sem Encaminhamento,2023
+2403,2019,São Sebastião,F,2,Geneticista,Turner,Array,Realizado ,Down,APAE,2023
+8744,2022,Santos,M,15,Geneticista,TEA,Array,Realizado,TEA,Alta,2023
+9148,2022,Guarujá,M,15,Geneticista,Noonan,Cariótipo,Realizado,TEA,Alta,2023
+3200,2022,São Sebastião,M,12,Neurologista,Turner,Exames prévios,,Noonan,"Oftalmologista, Cardiologista",2024
+5373,2021,São Sebastião,F,7,Neurologista,Kabuki,Exames prévios,,Kabuki,Auta,2021
+9137,2022,São Sebastião,F,17,Geneticista,Turner,Cariótipo,Realizado,Turner,APAE,2023
+4211,2018,Guarujá,M,1,Neurologista,TEA,Exames prévios,,Down,Sem Encaminhamento,2021
+3523,2020,Santos,M,6,Neurologista,Turner,Cariótipo,Realizado,TEA,Alta,2022
+8711,2021,São Vicente,M,3,Pediatria,Noonan,Exames prévios,,Turner,Alta,2021
+4726,2020,Guarujá,M,9,Geneticista,Down,Exames prévios,,Sem conclusão,"Oftalmologista, Cardiologista",2022
+6777,2020,Cubatão,F,15,Pediatria,Turner,Cariótipo,Realizado,Noonan,APAE,2021
+2019,2022,Cubatão,F,13,Pediatria,TEA,Cariótipo,Realizado,TEA,"Oftalmologista, Cardiologista",2023
+7906,2021,São Sebastião,M,11,Pediatria,Turner,Cariótipo,Realizado,Turner,Alta,2021
+8851,2022,Guarujá,F,12,Neurologista,TEA,Cariótipo,Realizado,TEA,Sem Encaminhamento,2022
+2384,2020,São Sebastião,F,4/12,Pediatria,Turner,Array,Realizado,Turner,APAE,2022
+6917,2020,São Vicente,F,2,Geneticista,Kabuki,Diagnostico clinico,,Sem conclusão,Sem conclusão,2021
+9559,2021,Guarujá,F,2,Neurologista,Turner,Array,Não Realizado,Sem conclusão,Sem conclusão,2023
+8136,2022,Cubatão,F,8,Pediatria,Noonan,Array,Realizado,Noonan,Sem Encaminhamento,2024
+7277,2020,Guarujá,F,5/12,Geneticista,Turner,Exames prévios,,Kabuki,Alta,2021
+8004,2021,Cubatão,M,5,Geneticista,Kabuki,Array,Realizado,Down,APAE,2021
+3176,2022,Guarujá,F,3,Neurologista,Down,Array,Realizado,Kabuki,"Oftalmologista, Cardiologista",2025
+6008,2020,Santos,F,6,Pediatria,TEA,Exames prévios,,Noonan,APAE,2022
+1103,2022,Guarujá,M,5,Pediatria,Kabuki,Array,Não Realizado,Sem conclusão,Sem conclusão,2023
+4736,2022,Santos,F,1,Geneticista,Noonan,exoma,Não Realizado,Sem conclusão,Sem conclusão,2022
+8328,2019,Santos,F,8,Pediatria,Turner,Exames prévios,,Sem conclusão,Sem conclusão,2022
+4545,2025,Praia Grande,M,19,Endocrinologista,Fibrose cística,"Array, exoma","Realizado, Não Realizado",Fibrose cística,Alta,2025
+8888,2018,Cubatão,M,25,Neurologista,X frágil,"Array, exoma","Não Realizado, Realizado",Sem conclusão,Neurologista,2019
+9999,2008,São Vicente,F,17,Urologista,X frágil,Diagnostico clinico,,X frágil,Neurologista,2015
+20201,2022,São Vicente,F,15,Endocrinologista,Trissomia 13,Não Realizado,,Sem conclusão,Sem Encaminhamento,
+11111,2000,Praia Grande,F,7,Cardiologista,Marfan,"Cariótipo, Array","Realizado, Realizado",Marfan,Ortopedista,2001
+1234,2000,Santos,F,14,Pediatria,Noonan,Exames prévios,,Kabuki,Alta,2020
+1475,2024,Cubatão,M,25,Neurologista,Down,Exames prévios,,Down,APAE,2025
+1456,2000,São Vicente,M,25,Endocrinologista,Kabuki,"Array, exoma","Realizado, Não Realizado",Turner,Endocrinologista,2002
+1596,1999,Cubatão,M,1,Pediatria,Down,"Cariótipo, Array","Realizado, Realizado",Down,APAE,2000
+1265,2023,São Sebastião,F,12,Neurologista,DMD,Exames prévios,,DMD,Neurologista,2024
+1548,2000,Guarujá,F,15,Neurologista,DMB,"Cariótipo, Array","Realizado, Realizado",DMD,Neurologista,2001
+123696,2001,Cubatão,F,7,Pediatria,TEA,Diagnostico clinico,,TEA,APAE,2002
+15257,2020,Guarujá,M,19,Neurologista,Del 4p59.3,Array,Realizado,Del 4p59.3,Alta,2025
+45679,2020,São Vicente,M,11,Endocrinologista,"Del 12q4,5","Array, exoma","Realizado, Realizado","Del 12q4,5",Alta,2022
+23876,2000,Guarujá,M,12,Cardiologista,Del 4p59.3,exoma,Não Realizado,Sem conclusão,Sem conclusão ,
+34989,2012,São Vicente,F,10,Geneticista,Del 4p59.3,Exames prévios,,Del 4p59.3,Alta,2025
+234555,2015,São Sebastião,F,10,Geneticista,Del 4p59.3,Array,Realizado,Del 4p59.3,Alta,
